@@ -1,0 +1,73 @@
+{
+    "enero": {
+        "0": {
+            "Usuario": "",
+            "Descripcion": "Recorrido Grupo-4TGPCAD",
+            "Instructor Responsable": "Maria Angelica",
+            "Fecha": "2/21/2025",
+            "Area": "internos SENA CGI",
+            "SubArea": "titulada CGI"
+        },
+        "febrero": {},
+        "marzo": {},
+        "abril": {},
+        "mayo": {},
+        "junio": {},
+        "julio": {},
+        "agosto": {},
+        "septiembre": {},
+        "octubre": {},
+        "noviembre": {},
+        "diciembre": {},
+        "13": {
+            "Usuario": "",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        },
+        "14": {
+            "Usuario": "",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        },
+        "15": {
+            "Usuario": "",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        },
+        "16": {
+            "Usuario": "Hombre",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        }
+    },
+    "febrero": {
+        "1": {
+            "Usuario": "",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        },
+        "2": {
+            "Usuario": "Hombre",
+            "Descripcion": "holi",
+            "Instructor Responsable": "jbhvhj",
+            "Fecha": "hjvhj",
+            "Area": "hvhj",
+            "SubArea": "hjvhj"
+        }
+    }
+}
